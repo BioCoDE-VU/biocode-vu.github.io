@@ -1,7 +1,7 @@
 name: "BioCoDE"
 description: "This is the official web page for the Stephanie Wankowicz Lab at Vanderbilt University."
 
-url: "https://wankowiczlab.com/"
+url: "https://biocode.github.io/"
 
 paginate: 5
 plugins: [jekyll-paginate]
