@@ -1,5 +1,5 @@
 ---
-title: Wankowicz Lab
+title: BioCoDE
 layout: home
 group: home
 ---
@@ -12,15 +12,16 @@ group: home
   <span style="font-size: 36px; font-weight: bold;">Welcome to the Wankowicz lab.</span>
   <br>
   <br>
-Our goal is to uncover the structural and thermodynamic mechanisms through which entropy governs binding specificity and catalysis. 
-  <br>
-  <br>
-
-
-
   
-We are part of the [Molecular Physiology & Biophysics Department](https://medschool.vanderbilt.edu/mpb/), the [Biochemistry Department](https://medschool.vanderbilt.edu/biochemistry/), the [Center for Applied AI in Protein Dynamics](https://www.vanderbilt.edu/ai-proteindynamics/), and the [Center for Structural Biology](https://www.vanderbilt.edu/csb/) at Vanderbilt University.
+The Biomedical and Computational Discovery Experience (BioCoDE) is an opportunity for high school students to explore what biomedical research is. 
+
+
+*Our Mission* is to provide a low-bar opportunity for students with no background in  to get a flavor of what, how, why, and who of biomedical research.
+
+
+
+This experience is geared towards students with no background or experience in biomedical research and who want to get a taste of what biomedical research is all about. It is two week, hands-on research experience at [Vanderbilt University](https://www.vanderbilt.edu/). Learn more here.
   <br>
   <br>
- The lab is located in 735 Light Hall.
+
 </div>
