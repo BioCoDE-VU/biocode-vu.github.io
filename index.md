@@ -13,7 +13,8 @@ group: home
   <br>
   <br>
   
-The Biomedical and Computational Discovery Experience (BioCoDE) invites high school students to explore what biomedical research is. This experience is geared towards students with no background or experience in biomedical research and who want to get a taste of what biomedical research is all about. 
+The Biomedical and Computational Discovery Experience (BioCoDE) offers high school students the opportunity to explore the world of biomedical research. Designed for students with no prior background or experience in the field, BioCoDE provides a hands-on introduction to the exciting possibilities within biomedical research and helps them discover what this field is all about.
+
 
 This program is in collaboration with the [Center for AI in Protein Dynamics](https://www.vanderbilt.edu/ai-proteindynamics/) at [Vanderbilt University](https://www.vanderbilt.edu/).
   <br>
