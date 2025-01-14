@@ -6,9 +6,6 @@
   link: "/schedule"
   group: schedule
 
-- name: organizers
-  link: "/organizers"
-  group: organizers
 
 - name: applications
   link: "/applications"
@@ -17,6 +14,10 @@
 - name: FAQs
   link: "/FAQs"
   group: FAQs
+
+- name: organizers
+  link: "/organizers"
+  group: organizers
 
 - name: support
   link: "/support"
