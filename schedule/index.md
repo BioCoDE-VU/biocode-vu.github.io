@@ -18,6 +18,7 @@ group: schedule
 3:00 PM - Tour of NMR Facility
 
 
+
 ## Wednesday, May 28th
 
 9:00 AM - Python basics
@@ -29,6 +30,7 @@ group: schedule
 12:45 PM - Python basics
 
 3:00 PM - Panel: Undergrad & Grad Research
+
 
 
 ## Thursday, May 29th
@@ -43,64 +45,73 @@ group: schedule
 
 3:30 PM - Science Journey Talk
 
+
+
 ## Friday, May 30th
 
-9:00 AM 
-*python: data exploration + graphing + statistics*
+9:00 AM  - Python data exploration & graphing 
+
+11:30 AM - Science Journey Talk
 
 12:00 PM - Lunch
 
-1:00 PM
+12:45 PM  - AI in Protein Structure
 
-4:00 PM - END OF DAY
+2:30 PM  - Research Project Overview and Research Team Creation
+
 
 
 ## Monday, June 1st
 
-9:00 AM 
-RESEARCH
+9:00 AM - Independent Research 
 
-12:00 PM - Lunch
+12:00 PM - Lunch 
+
+12:45 PM - Tour of X-ray Facility 
+
+1:30 PM - Independent Research 
 
 
-4:00 PM - END OF DAY
 
 ## Tuesday, June 2nd
 
-9:00 AM 
-RESEARCH
+9:00 AM - Independent Research 
 
-12:00 PM - Lunch
+12:00 PM - Lunch 
 
+12:45 PM - Science Journey Talk
 
-4:00 PM - END OF DAY
+1:15 PM - Independent Research 
+
 
 ## Wednesday, June 3rd
 
-9:00 AM 
-RESEARCH
+9:00 AM - Independent Research 
 
-12:00 PM - Lunch
+12:00 PM - Lunch 
 
+12:45 PM - Science Journey Talk
 
-4:00 PM - END OF DAY
-
-## Monday, June 1st
-
-9:00 AM 
-RESARCH
-
-12:00 PM - Lunch
+1:15 PM - Independent Research 
 
 
-4:00 PM - END OF DAY
 
-## Monday, June 1st
+## Thursday, June 4th
 
-9:00 AM 
-RESARCH
+9:00 AM - Independent Research 
 
-12:00 PM - Lunch
+12:00 PM - Lunch 
+
+12:45 PM - Independent Research 
 
 
-4:00 PM - END OF DAY
+## Friday, June 5th
+
+9:00 AM - Independent Research 
+
+12:00 PM - Lunch 
+
+1:00 PM - Presentation Preps
+
+2:30 PM - Research Showcase
+
