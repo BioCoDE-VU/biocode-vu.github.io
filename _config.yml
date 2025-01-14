@@ -1,5 +1,5 @@
 name: "BioCoDE"
-description: "This is the official web page for the Stephanie Wankowicz Lab at Vanderbilt University."
+description: "Biomedical & Computational Discovery Experience"
 
 url: "https://biocode.github.io/"
 
@@ -24,24 +24,3 @@ exclude:
         - vendor/gems/
         - vendor/ruby/
 
-collections:
-        affiliates:
-                output: false
-        members:
-                output: true
-        publications:
-                output: true
-        reviews:
-                output: true
-        alumni:
-                output: false
-        sep:
-                output: false
-        visitors:
-                output: true
-        undergrads:
-                output: true
-        pets:
-                output: false
-        tags:
-                output: false
