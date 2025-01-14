@@ -24,10 +24,21 @@ group: FAQs
 
 5. What is the program like?
     
-   A: In week one, we will teach you some background on protein science, coding, and give you an inside look into what it is like to be a full-time scientist.
+   A: In week one, we will teach you some background on protein science and coding and give you an inside look into what it is like to be a full-time scientist.
    The second week will consist of YOU running your own mini-research project.
 
-11. What about transportaion?
+6. Do I need to own a computer?
 
-12. Who should I contact if I have more questions?
+   A: No, computers will be provided for all students.
+
+7. How many students do you expect will be apart of the program?
+
+   A: We are expecting a cohort of about eight students.
    
+8. What about transportation?
+
+9. If I am interested in a research program for the entire summer, are there other options?
+   
+   
+10. Who should I contact if I have more questions?
+
