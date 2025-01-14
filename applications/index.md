@@ -4,6 +4,8 @@ layout: default
 group: application
 ---
 
+# Applications
+
 To apply, please fill out the form below. You will be asked to provide two references. These people do not need to be involved in sciene but should be able to speak about you as a student or worker.
 
 
