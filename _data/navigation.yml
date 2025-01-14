@@ -7,7 +7,7 @@
   group: schedule
 
 - name: organizers
-  link: "/orgnaizers"
+  link: "/organizers"
   group: organizers
 
 - name: applications
