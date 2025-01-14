@@ -4,6 +4,8 @@ layout: default
 group: FAQs
 ---
 
+# Frequently Asked Questions
+
 1. When is the program held?
    Tuesday, May 27th - Friday, June 6th. See [schedule](/schedule) for more infomation
    
