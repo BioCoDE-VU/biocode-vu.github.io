@@ -9,7 +9,7 @@ group: home
   <div class="row">
   <div class="row">
 
-  <span style="font-size: 36px; font-weight: bold;">Welcome to the Wankowicz lab.</span>
+  <span style="font-size: 36px; font-weight: bold;">Welcome to the BioCoDE.</span>
   <br>
   <br>
   
