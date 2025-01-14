@@ -2,31 +2,22 @@
   link: "/"
   group: home
 
-- name: research
-  link: "/research"
-  group: research
+- name: schedule
+  link: "/schedule"
+  group: schedule
 
-- name: members
-  link: "/members"
-  group: members
+- name: organizers
+  link: "/orgnaizers"
+  group: organizers
 
-- name: publications
-  link: "/publications"
-  group: publications
+- name: applications
+  link: "/applications"
+  group: applications
 
-- name: philosophy
-  link: "/philosophy"
-  group: philosophy
+- name: FAQs
+  link: "/FAQs"
+  group: FAQs
 
-- name: reviews
-  link: "/reviews"
-  group: reviews
-
-- name: join
-  link: "/join"
-  group: join
-
-- name: contact
-  link: "/contact"
-  group: contact
-
+- name: support
+  link: "/support"
+  group: support
