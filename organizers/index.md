@@ -1,7 +1,7 @@
 ---
 title: Organizers and Teachers
 layout: default
-group: Organizer
+group: organizers
 ---
 
 # Organizer
