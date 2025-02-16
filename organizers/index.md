@@ -6,8 +6,11 @@ group: Organizer
 
 ## Organizers
 Stephanie Wankowicz, PhD* 
+
 Hassane Mchaourab, PhD
+
 Elana Milano
+
 Ahmed Aslam
 
 *chair
