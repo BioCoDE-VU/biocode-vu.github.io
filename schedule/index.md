@@ -7,7 +7,7 @@ group: schedule
 # Schedule
 ## Tuesday, May 27th
 
-9:00 AM - Welcome and introduction by Dr. Wankowicz
+9:00 AM - Welcome and introduction by [Dr. Wankowicz](https://wankowiczlab.com/)
 
 9:45 AM - Introduction to Protein Structure
 
@@ -43,7 +43,7 @@ group: schedule
 
 12:45 PM - Data exploration with Python
 
-3:30 PM - Science Journey Talk
+3:30 PM - Science Journey Talk - [Dr. Catie Chang](https://www.cchanglab.net/)
 
 
 
@@ -51,7 +51,7 @@ group: schedule
 
 9:00 AM  - Python data exploration & graphing 
 
-11:30 AM - Science Journey Talk
+11:30 AM - Science Journey Talk - [Dr. Derek Claxton](https://medschool.vanderbilt.edu/mpb/person/derek-p-claxton-phd/)
 
 12:00 PM - Lunch
 
