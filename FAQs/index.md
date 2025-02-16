@@ -37,8 +37,14 @@ group: FAQs
    
 8. What about transportation?
 
-9. If I am interested in a research program for the entire summer, are there other options?
-   
-   
-10. Who should I contact if I have more questions?
+   A: Students are required to get their own transportation to and from campus. 
 
+10. If I am interested in a research program for the entire summer, are there other options?
+    
+    A: Yes!
+    (Vanderbilt Center for Talented Youth)[https://pty.vanderbilt.edu/for-students/]
+
+12. Who should I contact if I have more questions?
+
+    A: Please send questions to biocode@wankowiczlab.com
+      
