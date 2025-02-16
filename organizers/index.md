@@ -22,6 +22,10 @@ Tonnar Castellano
 Ahmed Aslam
 
 ### Speakers
+[Derek Claxton, PhD](https://medschool.vanderbilt.edu/mpb/person/derek-p-claxton-phd/)
+
+[Catie Chang, PhD](https://www.cchanglab.net/)
+
 Tatum Murdock
 
 ### Research Mentors
