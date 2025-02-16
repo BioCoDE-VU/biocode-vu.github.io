@@ -1,7 +1,7 @@
 name: "BioCoDE"
 description: "Biomedical & Computational Discovery Experience"
 
-url: "https://biocode.github.io/"
+url: "https://biocodevu.com/"
 
 paginate: 5
 plugins: [jekyll-paginate]
