@@ -4,7 +4,7 @@ layout: default
 group: Organizer
 ---
 
-## Organizers
+### Organizers
 [Stephanie Wankowicz, PhD*](https://wankowiczlab.com/)
 
 Hassane Mchaourab, PhD
@@ -15,13 +15,13 @@ Ahmed Aslam
 
 *chair
 
-## Module Leaders
+### Module Leaders
 Tonnar Castellano
 
-## Teaching Assistants
+### Teaching Assistants
 Ahmed Aslam
 
-## Speakers
+### Speakers
 Tatum Murdock
 
-## Research Mentors
+### Research Mentors
