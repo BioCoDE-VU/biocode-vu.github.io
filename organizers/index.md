@@ -1,16 +1,24 @@
 ---
 title: Organizers and Teachers
 layout: default
-group: organizers
+group: Organizer
 ---
 
-# Organizer
-Stephanie Wankowicz, PhD
+## Organizers
+Stephanie Wankowicz, PhD* 
+Hassane Mchaourab, PhD
+Elana Milano
+Ahmed Aslam
 
-# Module Leaders
+*chair
 
-# Teaching Assistants
+## Module Leaders
+Tonnar Castellano
 
-# Speakers
+## Teaching Assistants
+Ahmed Aslam
 
-# Research Mentors
+## Speakers
+Tatum Murdock
+
+## Research Mentors
