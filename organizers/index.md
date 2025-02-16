@@ -5,7 +5,7 @@ group: Organizer
 ---
 
 ## Organizers
-(Stephanie Wankowicz, PhD*)[https://wankowiczlab.com/] 
+[Stephanie Wankowicz, PhD*](https://wankowiczlab.com/)
 
 Hassane Mchaourab, PhD
 
