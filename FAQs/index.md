@@ -12,7 +12,7 @@ group: FAQs
    
 2. Where is the program held?
    
-   A: At the Stevenson Center Computer Lab at Vanderbilt University.
+   A: At the [Stevenson Center Computer Lab at Vanderbilt University](https://www.google.com/maps/place/Stevenson+Center+Complex/@36.1448178,-86.884346,24416m/data=!3m1!1e3!4m6!3m5!1s0x88646697f9eb9b85:0x77491b75d3e994b9!8m2!3d36.144846!4d-86.8019449!16s%2Fg%2F1tflymkl?entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D).
 
 3. What is the cost to participate?
    
@@ -37,7 +37,7 @@ group: FAQs
    
 8. What about transportation?
 
-   A: Students are required to provide their own transportation to and from campus. There are multiple bus lines and/or parking lots on campus.
+   A: Students are required to provide their own transportation to and from campus. There are [multiple bus lines and/or parking lots on campus](https://www.vanderbilt.edu/transportation-parking/transportation-and-mobility/getting-to-campus/vu-public-transit/).
 
 10. If I am interested in a research program for the entire summer, are there other options?
     
