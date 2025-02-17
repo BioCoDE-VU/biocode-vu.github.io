@@ -42,7 +42,7 @@ group: FAQs
 10. If I am interested in a research program for the entire summer, are there other options?
     
     A: Yes!
-    (Vanderbilt Center for Talented Youth)[https://pty.vanderbilt.edu/for-students/]
+    [Vanderbilt Center for Talented Youth](https://pty.vanderbilt.edu/for-students/)
 
 12. Who should I contact if I have more questions?
 
