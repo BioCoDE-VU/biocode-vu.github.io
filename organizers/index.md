@@ -4,16 +4,6 @@ layout: default
 group: Organizer
 ---
 
-### Organizers
-[Stephanie Wankowicz, PhD*](https://wankowiczlab.com/)
-
-Hassane Mchaourab, PhD
-
-Elana Milano
-
-Ahmed Aslam
-
-*chair
 
 ### Module Leaders
 Tonnar Castellano
@@ -31,3 +21,16 @@ Ahmed Aslam
 Tatum Murdock
 
 ### Research Mentors
+
+### Organizers
+[Stephanie Wankowicz, PhD*](https://wankowiczlab.com/)
+
+Hassane Mchaourab, PhD
+
+Elana Milano
+
+Ahmed Aslam
+
+Oliva Chen
+
+*chair
