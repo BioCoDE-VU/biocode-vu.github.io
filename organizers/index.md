@@ -10,6 +10,7 @@ Tonnar Castellano
 
 Vratin Srivastava
 
+Justin Lindsay
 
 
 ### Speakers
@@ -31,6 +32,10 @@ Ian Junker
 Tatum Murdock
 
 Phoebe Nguyen
+
+Andy Ma
+
+Keisha Barnes
 
 
 ### Organizers
