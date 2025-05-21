@@ -43,7 +43,7 @@ group: schedule
 
 ## Friday, May 30th
 
-**9:00 AM** *Python: data exploration + graphing + statistics*
+**9:00 AM** *Python: data exploration + graphing + statistics* [Tonnar Castellano](https://wankowiczlab.com/members/)
 
 **11:30 AM** *Science Journey Talk* [Derek Claxton, PhD](https://lab.vanderbilt.edu/mchaourab-lab/person/osamu-nureki-ph-d/)
 
