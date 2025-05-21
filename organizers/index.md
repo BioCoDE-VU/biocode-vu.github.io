@@ -12,11 +12,15 @@ Vratin Srivastava
 
 Justin Lindsay
 
+Andy Ma
+
 
 ### Speakers
 [Derek Claxton, PhD](https://medschool.vanderbilt.edu/mpb/person/derek-p-claxton-phd/)
 
 [Catie Chang, PhD](https://www.cchanglab.net/)
+
+[Gregor Neurt, PhD](https://lab.vanderbilt.edu/neuert-lab/person/gregor-neuert/)
 
 
 ### Volunteers
@@ -41,8 +45,6 @@ Keisha Barnes
 ### Organizers
 [Stephanie Wankowicz, PhD*](https://wankowiczlab.com/)
 
-[Hassane Mchaourab, PhD](https://lab.vanderbilt.edu/mchaourab-lab/person/hassane-s-mchaourab-ph-d/)
-
 Elana Milano
 
-*chair
+
