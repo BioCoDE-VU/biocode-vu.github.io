@@ -8,7 +8,7 @@ group: FAQs
 
 1. When is the program held?
    
-   Tuesday, May 27th - Friday, June 6th. See [schedule](/schedule) for more information.
+   Tuesday, May 27th - Friday, May 30th. See [schedule](/schedule) for more information.
    
 2. Where is the program held?
    
