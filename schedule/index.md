@@ -7,111 +7,52 @@ group: schedule
 # Schedule
 ## Tuesday, May 27th
 
-9:00 AM - Welcome and introduction by [Dr. Wankowicz](https://wankowiczlab.com/)
+**9:00 AM** - *Welcome and Introduction to Protein Structure* [Stephanie Wankowicz, PhD](wankowiczlab.com)
 
-9:45 AM - Introduction to Protein Structure
+**12:00 PM** *Lunch*
 
-12:00 PM - Lunch
+**12:45 PM** *Protein Structure & Pymol Tutorial* [Justin Lindsay, PhD](https://www.bpbrownlab.org/team)
 
-12:45 PM - Protein Structure & Pymol Tutorial
-
-3:00 PM - Tour of NMR Facility
-
+**3:00 PM** *[Tour of NMR Facility](https://www.vanderbilt.edu/csb/facilities/biomolecular-nmr/)*
 
 
 ## Wednesday, May 28th
 
-9:00 AM - Python basics
+**9:00 AM** *Python basics* [Vratin Srivastava](https://wankowiczlab.com/members/)
 
-11:30 AM - Science Journey Talk
+**11:30 AM** *Science Journey Talk*  [Gregor Neurt, PhD](https://lab.vanderbilt.edu/neuert-lab/person/gregor-neuert/)
 
-12:00 PM - Lunch
+**12:00 PM** *Lunch*
 
-12:45 PM - Python basics
+**12:45 PM** *Python basics* [Vratin Srivastava](https://wankowiczlab.com/members/)
 
-3:00 PM - Panel: Undergrad & Grad Research
-
+**3:00 PM** *Panel: Undergrad & Grad Research*
 
 
 ## Thursday, May 29th
 
-9:00 AM - Python basics & data exploration
+**9:00 AM** *Python basics & data exploration* [Andy Ma]()
 
-10:30 AM - Tour of cryoEM facilities
+**10:30 AM** [Tour of cryoEM facilities](https://www.vanderbilt.edu/csb/facilities/cryo-electron-microscopy/)
 
-12:00 PM - Lunch
+**12:00 PM** *Lunch*
 
-12:45 PM - Data exploration with Python
+**12:45 PM** *Data exploration with Python*
 
-3:30 PM - Science Journey Talk - [Dr. Catie Chang](https://www.cchanglab.net/)
-
-
+**3:30 PM** *Science Journey Talk* [Catie Chang, PhD](https://www.cchanglab.net/)
 
 ## Friday, May 30th
 
-9:00 AM  - Python data exploration & graphing 
+**9:00 AM** *Python: data exploration + graphing + statistics*
 
-11:30 AM - Science Journey Talk - [Dr. Derek Claxton](https://medschool.vanderbilt.edu/mpb/person/derek-p-claxton-phd/)
+**11:30 AM** *Science Journey Talk* [Derek Claxton, PhD](https://lab.vanderbilt.edu/mchaourab-lab/person/osamu-nureki-ph-d/)
 
-12:00 PM - Lunch
+**12:30 PM** *Lunch*
 
-12:45 PM  - AI in Protein Structure
+**1:30 PM** *AI in protein structure*
 
-2:30 PM  - Research Project Overview and Research Team Creation
-
-
-
-## Monday, June 1st
-
-9:00 AM - Independent Research 
-
-12:00 PM - Lunch 
-
-12:45 PM - Tour of X-ray Facility 
-
-1:30 PM - Independent Research 
+**4:00 PM** *END OF BIOCODE*
 
 
 
-## Tuesday, June 2nd
-
-9:00 AM - Independent Research 
-
-12:00 PM - Lunch 
-
-12:45 PM - Science Journey Talk
-
-1:15 PM - Independent Research 
-
-
-## Wednesday, June 3rd
-
-9:00 AM - Independent Research 
-
-12:00 PM - Lunch 
-
-12:45 PM - Science Journey Talk
-
-1:15 PM - Independent Research 
-
-
-
-## Thursday, June 4th
-
-9:00 AM - Independent Research 
-
-12:00 PM - Lunch 
-
-12:45 PM - Independent Research 
-
-
-## Friday, June 5th
-
-9:00 AM - Independent Research 
-
-12:00 PM - Lunch 
-
-1:00 PM - Presentation Preps
-
-2:30 PM - Research Showcase
 
